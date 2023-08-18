@@ -1,0 +1,8 @@
+Right flag
+
+conda activate tf
+
+export XLA_FLAGS=--xla_gpu_cuda_data_dir=/home/jacopo/miniconda3/envs/tf
+
+tensorboard --logdir ./ --samples_per_plugin "images=20"
+

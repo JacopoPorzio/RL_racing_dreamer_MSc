@@ -1,0 +1,12 @@
+docs/
+examples/
+logs/
+__pycache__/
+tests/
+zzzzOLD/
+.git/
+.idea/
+0_VRDemoSettings.txt
+example.py
+tester_ftg_angle.py
+

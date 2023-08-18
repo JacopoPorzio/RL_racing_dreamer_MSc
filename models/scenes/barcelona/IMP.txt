@@ -1,0 +1,2 @@
+I've increased the number of checkpoints in barcelona.yml!
+In this way, I can recognise quickly when I'm moving in the wrong direction!
